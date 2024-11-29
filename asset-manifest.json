@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f179c10.css",
-    "main.js": "/static/js/main.227a844d.js",
-    "index.html": "/index.html",
-    "main.5f179c10.css.map": "/static/css/main.5f179c10.css.map",
-    "main.227a844d.js.map": "/static/js/main.227a844d.js.map"
+    "main.css": "/huanhou/eventsss/static/css/main.5f179c10.css",
+    "main.js": "/huanhou/eventsss/static/js/main.227a844d.js",
+    "index.html": "/huanhou/eventsss/index.html",
+    "main.5f179c10.css.map": "/huanhou/eventsss/static/css/main.5f179c10.css.map",
+    "main.227a844d.js.map": "/huanhou/eventsss/static/js/main.227a844d.js.map"
   },
   "entrypoints": [
     "static/css/main.5f179c10.css",
